@@ -35,7 +35,7 @@ This codebase is designed to work with the **EAV Dataset** — a 30-channel EEG 
 The dataset contains:
 - **EEG**: 200 trials × 10,000 time points × 30 channels per subject (`.mat`)
 - **Audio**: 100 speaking-task clips per subject, 20s each (`.wav`)
-- **Video**: 200 clips per subject, 20s @ 30fps (`.mp4`)
+- **Video**: 200 clips per subject, 20s at 30fps (`.mp4`)
 
 Download the raw data and pre-extracted features from [Zenodo](https://doi.org/10.5281/zenodo.10205702).
 

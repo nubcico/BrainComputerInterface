@@ -85,4 +85,4 @@ HCI Lab, School of Engineering and Digital Sciences, Nazarbayev University
 
 ## License
 
-This project is licensed under the GPL-3.0 License. See `LICENSE` for details.
+This project is licensed under the GPL-3.0 License. See [`LICENSE`](https://github.com/nubcico/BrainComputerInterface/blob/main/LICENSE) for details.

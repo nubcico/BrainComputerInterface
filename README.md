@@ -44,10 +44,17 @@ Download the raw data and pre-extracted features from [Zenodo](https://doi.org/1
 ## Getting Started
 
 ### Requirements
-
+ 
+**MATLAB**
 - MATLAB R2021b or later
 - Signal Processing Toolbox
 - Deep Learning Toolbox
+
+**Python 3.10+**
+- torch>=2.0, torchaudio, torchvision, tensorflow>=2.12
+- facenet-pytorch, transformers>=4.30
+- librosa, opencv-python, pillow
+- numpy, scipy, pandas, matplotlib, seaborn
 
 ### Installation
 

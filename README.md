@@ -30,7 +30,7 @@ BrainComputerInterface/
 
 This codebase is designed to work with the **EAV Dataset** 30-channel EEG + Audio + Video dataset collected from 42 participants across 5 emotion classes (Neutral, Anger, Happiness, Sadness, Calmness).
 
-** [nubcico/EAV: EEG-Audio-Video Dataset for Emotion Recognition in Conversations](https://github.com/nubcico/EAV)**
+[nubcico/EAV: EEG-Audio-Video Dataset for Emotion Recognition in Conversations](https://github.com/nubcico/EAV)
 
 The dataset contains:
 - **EEG**: 200 trials × 10,000 time points × 30 channels per subject (`.mat`)

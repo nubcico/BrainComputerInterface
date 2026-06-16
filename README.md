@@ -2,7 +2,7 @@
 
 Framework for multimodal Brain-Computer Interface (BCI), focusing on EEG-based emotion recognition using CNN and LSTM architectures. Developed at the [BCI Lab, Nazarbayev University](https://nu.edu.kz) under the supervision of Prof. Min-Ho Lee.
 
-This repository implements the signal processing and classification pipeline used in our research, built on the [EAV dataset](https://github.com/nubcico/EAV) — a multimodal EEG-Audio-Video corpus for emotion recognition in conversational contexts.
+This repository implements the signal processing and classification pipeline used in our research, built on the [EAV dataset](https://github.com/nubcico/EAV) - a multimodal EEG-Audio-Video corpus for emotion recognition in conversational contexts.
 
 ---
 

@@ -88,7 +88,7 @@ Work produced using this framework:
 
 ## Contact
 
-**Prof. Min-Ho Lee** — [minho.lee@nu.edu.kz](mailto:minho.lee@nu.edu.kz)  
+**Prof. Min-Ho Lee** - [minho.lee@nu.edu.kz](mailto:minho.lee@nu.edu.kz)  
 BCI Lab, School of Engineering and Digital Sciences, Nazarbayev University
 
 ---

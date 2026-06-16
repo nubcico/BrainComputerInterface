@@ -70,9 +70,12 @@ Download the EAV dataset from Zenodo and place it in a local directory. Update t
 
 Work produced using this framework:
 
-- S. Bralina, A. Yazici, C. Guan, **M. H. Lee**. "Adaptive Bottleneck Transformer for Multimodal EEG, Audio, and Vision Fusion." *Expert Systems with Applications*, 2026, 312, 131487. **Scopus Q1, Top 10%**
-- M. Kudaibergenova, A. Yazici, A. Shomanov, M.-H. Lee. "Multimodal Joint Representations of EEG and Audio-Vision for Zero-Shot Learning." *Biomedical Signal Processing and Control*, 2026. **Scopus Q1, Top 10%** *(under revision)*
-- Kazakhstan Patent № 11561 — "Method and system for multimodal fusion of EEG, audio and video data." Authors: Min-Ho Lee, Sabina Bralina.
+1.	S. Bralina; A. Yazici; C. Guan; M. H. Lee. “Adaptive Bottleneck Transformer for Multimodal EEG, Audio, and Vision Fusion.” Expert Systems with Applications, 2026, 312, Article 131487. DOI: 10.1016/j.eswa.2026.131487. Indexing information: Scopus Q1, Top 10%. Published.
+2.	Baimukanova, Z.; Saparbekov, Y.; Ha, H.; Min-Ho Lee*. “Evidence-Grounded LLM Summarization for Actionable Student Feedback Analysis.” Information, 2026, 17(4), Article 351. DOI: 10.3390/info17040351. Indexing information: Scopus Q1. Published.
+3.	Vadim Atlassov; Isabella Schlattner; Yelzhas Omarov; Hyun-Jin Ju; Min-Ho Lee*. “Controllable Diffusion-Based Image Generation for Failure Diagnosis of Reinforced Concrete Beam–Column Joints.” Journal of Building Engineering, 2026. DOI: N/A. Indexing information: Scopus Q1, Top 1%, Accepted.
+4.	Z. Kabidenova; B. Abibullaev; A. Yazici; M.-H. Lee. “EEG2Face: Neural–Peripheral EEG Face Reconstruction.” Expert Systems with Applications, 2026. DOI: N/A. Indexing information: Scopus Q1, Top 10%. Under revision.
+5.	M. Kudaibergenova; A. Yazici; A. Shomanov; M.-H. Lee. “Multimodal Joint Representations of EEG and Audio-Vision for Zero-Shot Learning.” Biomedical Signal Processing and Control, 2026. DOI: N/A. Indexing information: Scopus Q1, Top 10%. Under revision.
+
 
 ---
 

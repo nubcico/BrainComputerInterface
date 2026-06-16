@@ -8,7 +8,7 @@ This repository implements the signal processing and classification pipeline use
 
 ## Overview
 
-The project addresses the challenge of decoding emotional states from neurophysiological signals. Starting from raw EEG recordings, the pipeline covers noise reduction, neural component filtering, feature extraction, and classification via deep learning models trained in MATLAB.
+The project addresses the challenge of decoding emotional states from neurophysiological signals. Starting from raw EEG recordings, the pipeline covers noise reduction, neural component filtering, feature extraction, and classification with MATLAB and CNN-LSTM models.
 
 ---
 
@@ -28,7 +28,7 @@ BrainComputerInterface/
 
 ## Dataset
 
-This codebase is designed to work with the **EAV Dataset** — a 30-channel EEG + Audio + Video dataset collected from 42 participants across 5 emotion classes (Neutral, Anger, Happiness, Sadness, Calmness).
+This codebase is designed to work with the **EAV Dataset** 30-channel EEG + Audio + Video dataset collected from 42 participants across 5 emotion classes (Neutral, Anger, Happiness, Sadness, Calmness).
 
 ** [nubcico/EAV: EEG-Audio-Video Dataset for Emotion Recognition in Conversations](https://github.com/nubcico/EAV)**
 

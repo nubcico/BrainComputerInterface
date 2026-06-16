@@ -30,7 +30,7 @@ BrainComputerInterface/
 
 This codebase is designed to work with the **EAV Dataset** — a 30-channel EEG + Audio + Video dataset collected from 42 participants across 5 emotion classes (Neutral, Anger, Happiness, Sadness, Calmness).
 
-**→ [nubcico/EAV: EEG-Audio-Video Dataset for Emotion Recognition in Conversations](https://github.com/nubcico/EAV)**
+** [nubcico/EAV: EEG-Audio-Video Dataset for Emotion Recognition in Conversations](https://github.com/nubcico/EAV)**
 
 The dataset contains:
 - **EEG**: 200 trials × 10,000 time points × 30 channels per subject (`.mat`)
@@ -60,9 +60,9 @@ Download the EAV dataset from Zenodo and place it in a local directory. Update t
 
 ### Pipeline
 
-1. **PreProcessing** — Run the scripts in `PreProcessing/` to denoise raw EEG signals, apply bandpass filtering, extract neural components, and construct feature representations.
-2. **CNN** — Use scripts in `CNN/` to train convolutional models on the extracted 3D feature inputs.
-3. **LSTM** — Use scripts in `LSTM/` to train sequence models or the combined CNN-LSTM architecture for temporal and multimodal classification.
+1. **PreProcessing**: MATLAB scripts for EEG denoising, bandpass filtering, neural component extraction, and feature construction.PreProcessing — MATLAB scripts for EEG denoising, bandpass filtering, neural component extraction, and feature construction.
+2. **CNN**: CNN model in `CNN/` to train convolutional models on the extracted 3D feature inputs.
+3. **LSTM** — LSTM model in `LSTM/` to train sequence models or the combined CNN-LSTM architecture for temporal and multimodal classification.
 
 ---
 
